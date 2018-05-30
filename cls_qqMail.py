@@ -1,3 +1,10 @@
+#!/usr/bin/python
+#_*_coding:utf-8 _*_
+#Auth:Qing.Yu
+#Mail:1753330141@qq.com
+# Ver:V1.0
+#Date:2018-05-17
+
 import requests as r,json
 
 class obj_qqMail():

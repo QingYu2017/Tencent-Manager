@@ -8,7 +8,15 @@
 
 推荐环境：
 
+(调试）
+
 1、Windows 10、Visual Studio Code；
+
+2、Python 3.6.4；
+
+（生产）
+
+1、CentOS 7、virtualenvwrapper；
 
 2、Python 3.6.4；
 

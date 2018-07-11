@@ -4,3 +4,12 @@
 
 腾讯企业邮API访问
 通过腾讯企业邮箱(exmail.qq.com)API接口，读取部门的新增/删除/组织关系的调整，用户的新增、变更（禁用/启用）、删除;
+
+
+推荐环境：
+1、Windows 10、Visual Studio Code；
+2、Python 3.6.4；
+
+参考文档：
+1、企业微信API https://work.weixin.qq.com/api/doc
+2、企业邮箱API https://exmail.qq.com/qy_mng_logic/doc#10001

@@ -10,7 +10,7 @@
 2、配置Python脚本（环境Python 2.x.x，建议CentOS 7 Minimal）
 2.1 将weixin.py保存至 /usr/local/zabbix/share/zabbix/alertscripts ；
 2.2 编辑weixin.py，使用1.8中收集到的信息，更新CorpID和Secret：
-
+![Image text](https://github.com/QingYu2017/pic/blob/master/01.png)
 2.3 更新1.8中收集到的toparty和agentid：
 2.4 发送测试消息
 python weixin.py 1測試消息 "金魚大王家的怪蜀黍，你好"
